@@ -18,17 +18,3 @@ A modern and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 - 🔄 Restart Game Anytime  
 - 🌙 Stylish UI with Responsive Design
 
----
-
-## 🖼️ Demo
-
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Add your own screenshot path -->
-
----
-
-## 🚀 How to Run Locally
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-ai.git
-   cd tic-tac-toe-
