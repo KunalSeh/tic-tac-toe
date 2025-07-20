@@ -1,20 +1,27 @@
-# 🎮 Tic Tac Toe - Web App
+# Tic Tac Toe Game 🎮
 
-A modern and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript**. This project features two-player mode, an AI opponent (medium and smart difficulty using Minimax algorithm), player name customization, and a real-time scoreboard.
+A simple and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 
----
+## Features
 
-## 🧩 Features
+- Two player mode
+- Play against computer (Medium or Smart AI)
+- Scoreboard tracking
+- Player name input
+- Game restart and score reset options
 
-- 🔁 Two Game Modes:
-  - **2 Player Mode**
-  - **Single Player vs AI**
-    - Medium (Random)
-    - Smart (Minimax)
+## How to Run
 
-- 🧠 Smart AI using Minimax Algorithm  
-- 🏷️ Player Name Input & Dynamic Labels  
-- 📊 Scoreboard with Reset Option  
-- 🔄 Restart Game Anytime  
-- 🌙 Stylish UI with Responsive Design
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Start playing!
 
+## Files
+
+- `index.html` – Structure of the game
+- `style.css` – Styling of the game board and UI
+- `web.js` – Game logic and AI functionality
+
+## Author
+
+Kunal Sehrawat
